@@ -24,23 +24,23 @@ const pythonCourses = [
 const pythonProjects = [
   {
     title: 'Todo List Application',
-    description: 'Build a command-line todo list manager using Python and SQLite.',
-    youtubeUrl: '#',
+    description: 'Build a command-line todo list manager using Python.',
+    youtubeUrl: 'https://youtu.be/TzlcavuwNvo?si=BIiH-I_XO7fKkpJS',
   },
   {
     title: 'Weather Dashboard',
     description: 'Create a weather dashboard using Python and a weather API.',
-    youtubeUrl: '#',
+    youtubeUrl: 'https://github.com/Ahmedkhang/Project_04/blob/main/Assignment_1/06_weather_api/main.py',
   },
   {
-    title: 'Web Scraper',
+    title: 'Library Manager',
     description: 'Develop a web scraper to collect and analyze data from websites.',
-    youtubeUrl: '#',
+    youtubeUrl: 'https://github.com/uzairshaikh346/Personal_library_book_manager.git',
   },
   {
-    title: 'Chat Application',
-    description: 'Build a real-time chat application using Python and WebSocket.',
-    youtubeUrl: '#',
+    title: 'Joke Generator',
+    description: 'Build a Joke Bot Generator where user can get random Programming Jokes.',
+    youtubeUrl: 'https://github.com/Ahmedkhang/Project_04/blob/main/Assignment_1/00_basics/00_joke_bot.py',
   },
 ];
 
