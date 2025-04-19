@@ -1,3 +1,4 @@
+import PythonFundametals from '@/components/PythonFundametals';
 import Link from 'next/link';
 
 const languages = [
@@ -78,6 +79,10 @@ export default function Home() {
           ))}
         </div>
       </section>
+      <div>
+        <PythonFundametals />
+      </div>
     </div>
+    
   );
 }
